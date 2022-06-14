@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>7FB76F8B-1394-46FE-AC4C-60408C5111F9</string>
+		<key>branch</key>
+		<string>expense</string>
+		<key>amount</key>
+		<real>23.4</real>
+		<key>category</key>
+		<string>food</string>
+		<key>date</key>
+		<date>2022-03-14T03:08:53Z</date>
+		<key>method</key>
+		<string>credit card</string>
+		<key>description</key>
+		<string>Buy snack from WholeFoods</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8EC0D3E5-CD51-4481-AD4C-A78C44736CB6
+8EC0D3E5-CD51-4481-AD4C-A78C44736CB6
+</string>
+		<key>branch</key>
+		<string>income</string>
+		<key>amount</key>
+		<integer>1500</integer>
+		<key>category</key>
+		<string>salary</string>
+		<key>date</key>
+		<date>2022-03-12T03:08:53Z</date>
+		<key>method</key>
+		<string>cash</string>
+		<key>description</key>
+		<string>Salary from research intership</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8EC0D3E5-CD51-4481-AD4C-A78C44736CB7
+8EC0D3E5-CD51-4481-AD4C-A78C44736CB6
+</string>
+		<key>branch</key>
+		<string>income</string>
+		<key>amount</key>
+		<integer>200</integer>
+		<key>category</key>
+		<string>rent</string>
+		<key>date</key>
+		<date>2022-03-12T03:08:53Z</date>
+		<key>method</key>
+		<string>Alipay</string>
+		<key>description</key>
+		<string>Salary from research intership</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8EC0D3E5-CD51-4481-AD4C-A78C44736CB8
+8EC0D3E5-CD51-4481-AD4C-A78C44736CB6
+</string>
+		<key>branch</key>
+		<string>expense</string>
+		<key>amount</key>
+		<integer>200</integer>
+		<key>category</key>
+		<string>medical</string>
+		<key>date</key>
+		<date>2022-03-12T03:08:53Z</date>
+		<key>method</key>
+		<string>paypal</string>
+		<key>description</key>
+		<string>Tooth ache to find a doctor</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8EC0D3E5-CD51-4481-AD4C-A78C44736CB9
+8EC0D3E5-CD51-4481-AD4C-A78C44736CB6
+</string>
+		<key>branch</key>
+		<string>expense</string>
+		<key>amount</key>
+		<integer>300</integer>
+		<key>category</key>
+		<string>shopping</string>
+		<key>date</key>
+		<date>2022-03-12T03:08:53Z</date>
+		<key>method</key>
+		<string>apple pay</string>
+		<key>description</key>
+		<string>buy a coat from TheNorthFace</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8EC0D3E5-CD51-4481-AD4C-A78C44737CB6
+8EC0D3E5-CD51-4481-AD4C-A78C44736CB6
+</string>
+		<key>branch</key>
+		<string>income</string>
+		<key>amount</key>
+		<integer>100</integer>
+		<key>category</key>
+		<string>allowance</string>
+		<key>date</key>
+		<date>2022-03-12T03:08:53Z</date>
+		<key>method</key>
+		<string>check</string>
+		<key>description</key>
+		<string>allowence for covid-19</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8EC0D3E5-CD51-4481-AD4C-A24C44737CB6
+8EC0D3E5-CD51-4481-AD4C-A78C44736CB6
+</string>
+		<key>branch</key>
+		<string>expense</string>
+		<key>amount</key>
+		<integer>90</integer>
+		<key>category</key>
+		<string>education</string>
+		<key>date</key>
+		<date>2022-03-12T03:08:53Z</date>
+		<key>method</key>
+		<string>cash</string>
+		<key>description</key>
+		<string>buy books</string>
+	</dict>
+</array>
+</plist>

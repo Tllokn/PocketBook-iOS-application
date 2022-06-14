@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftPieChart",
+        "repositoryURL": "https://github.com/ilamanov/SwiftPieChart",
+        "state": {
+          "branch": null,
+          "revision": "e6f67120c55e7402f67f3463994105ff6cfbcd10",
+          "version": "1.0.61"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
